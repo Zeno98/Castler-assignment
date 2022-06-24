@@ -1,0 +1,27 @@
+.singlePage{
+    width:500px;
+}
+.btn{
+    margin-top: 10px;
+    width: 100px;
+    height: 35px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(205, 231, 240);
+    cursor: pointer;
+    font-size: 20px;
+    color: black;
+}
+.search{
+    margin-right: 20px;
+    width: 150px;
+    height: 32px;
+    border-radius: 10px;
+    
+}
+.btn:hover{
+    background-color: rgb(27, 179, 213);
+}
+.alert{
+    color:red;
+}
