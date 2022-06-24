@@ -1,5 +1,26 @@
 # Getting Started with Create React App
 
+1. Intial look of the page.
+![img1](https://user-images.githubusercontent.com/89126653/175577082-bb8e1ae4-9129-440f-b9ce-1e8c22e32670.JPG)
+
+2. Search user id with 1 and finding the Name of the user.
+![img2](https://user-images.githubusercontent.com/89126653/175577407-4022b2b1-76eb-4a43-9152-ec65382fe765.JPG)
+
+3. Search user id with 1 and finding the Profile picture of the user.
+![img3](https://user-images.githubusercontent.com/89126653/175577736-ef6a85aa-0be9-4688-af6e-8f20be54e172.JPG)
+
+4. Search user id with 1 and finding the Email of the user.
+![img4](https://user-images.githubusercontent.com/89126653/175578746-470dae5d-206b-4f54-b47d-51178e0b5807.JPG)
+
+5. Search user id with 1 and finding the About of the user.
+![img5](https://user-images.githubusercontent.com/89126653/175580625-97a1f9be-89f6-498a-affc-d248067d84cd.JPG)
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
